@@ -1,16 +1,46 @@
-## Hi there 👋
+## 👋 Hola, soy Alan Monti
 
-<!--
-**AlanMonti92/AlanMonti92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer especializado en Laravel**  
+🎓 Técnico Superior en Análisis de Sistemas  
+🎓 Licenciado en Ciencia de Datos
 
-Here are some ideas to get you started:
+Desarrollo **sistemas reales**, con foco en:
+- reglas de negocio
+- procesos complejos
+- análisis y uso inteligente de datos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Stack principal
+
+**Backend**
+- Laravel / PHP
+- MySQL
+- PostgreSQL
+- SQL Server
+- Diseño de reglas de negocio
+
+**Frontend**
+- Blade / Livewire
+- Tailwind CSS
+- CSS
+
+**Data & Analytics**
+- Python
+- Pandas
+- Streamlit
+- SQL
+
+---
+
+### 🚀 Qué hago
+
+- Sistemas de gestión (ventas, pagos, cuentas corrientes)
+- Aplicaciones a medida
+- Dashboards y análisis de datos
+- Automatización y ETL
+
+---
+
+📍 Argentina  
+📫 Contacto: LinkedIn | alanmonti92@gmail.com
