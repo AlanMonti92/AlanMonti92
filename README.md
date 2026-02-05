@@ -1,8 +1,8 @@
 ## Hola, soy Alan Monti
 
-💻 **Full Stack Developer especializado en Laravel**  
-🎓 Técnico Superior en Análisis de Sistemas  
-🎓 Licenciado en Ciencia de Datos
+* **Full Stack Developer especializado en Laravel**  
+* Técnico Superior en Análisis de Sistemas  
+* Licenciado en Ciencia de Datos
 
 Desarrollo **sistemas**, con foco en:
 - reglas de negocio
@@ -11,7 +11,7 @@ Desarrollo **sistemas**, con foco en:
 
 ---
 
-### 🛠️ Stack principal
+### Stack principal
 
 **Backend**
 - Laravel / PHP
@@ -33,7 +33,7 @@ Desarrollo **sistemas**, con foco en:
 
 ---
 
-### 🚀 Qué hago
+### Qué hago
 
 - Sistemas de gestión (ventas, pagos, cuentas corrientes)
 - Aplicaciones a medida
