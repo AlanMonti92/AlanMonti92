@@ -4,7 +4,7 @@
 🎓 Técnico Superior en Análisis de Sistemas  
 🎓 Licenciado en Ciencia de Datos
 
-Desarrollo **sistemas reales**, con foco en:
+Desarrollo **sistemas**, con foco en:
 - reglas de negocio
 - procesos complejos
 - análisis y uso inteligente de datos
