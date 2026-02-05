@@ -1,4 +1,4 @@
-## 👋 Hola, soy Alan Monti
+## Hola, soy Alan Monti
 
 💻 **Full Stack Developer especializado en Laravel**  
 🎓 Técnico Superior en Análisis de Sistemas  
