@@ -1,46 +1,84 @@
-## Hola, soy Alan Monti
+Hi, I’m Alan Monti
 
-* **Full Stack Developer especializado en Laravel**  
-* Técnico Superior en Análisis de Sistemas  
-* Licenciado en Ciencia de Datos
+Backend & Data-Driven Systems Specialist
+Systems Analyst | Data Science Graduate
 
-Desarrollo **sistemas**, con foco en:
-- reglas de negocio
-- procesos complejos
-- análisis y uso inteligente de datos
+I design and build reliable business systems where logic, payments, and data integrity truly matter.
 
----
+My focus is not just developing features — but creating structured architectures that generate decision-ready data and support long-term business growth.
 
-### Stack principal
+What I Work On
 
-**Backend**
-- Laravel / PHP
-- MySQL
-- PostgreSQL
-- SQL Server
-- Diseño de reglas de negocio
+I build systems with strong foundations in:
 
-**Frontend**
-- Blade / Livewire
-- Tailwind CSS
-- CSS
+Complex business rules
 
-**Data & Analytics**
-- Python
-- Pandas
-- Streamlit
-- SQL
+Financial workflows & payment processing
 
----
+Structured database design
 
-### Qué hago
+Reporting-ready architectures
 
-- Sistemas de gestión (ventas, pagos, cuentas corrientes)
-- Aplicaciones a medida
-- Dashboards y análisis de datos
-- Automatización y ETL
+Data modeling and analytics
 
----
+Core Stack
+Backend
 
-📍 Argentina  
-📫 Contacto: LinkedIn | alanmonti92@gmail.com
+Laravel / PHP
+
+MySQL, PostgreSQL, SQL Server
+
+REST APIs & JWT integrations
+
+Complex validation and financial logic
+
+Frontend
+
+Blade / Livewire
+
+Tailwind CSS
+
+Clean, structured UI layers
+
+Data & Analytics
+
+Python
+
+Pandas
+
+Streamlit
+
+SQL-based reporting
+
+ETL and structured datasets
+
+What I Build
+
+Business management systems (sales, payments, account flows)
+
+Custom backend platforms
+
+KPI dashboards & reporting systems
+
+Data-driven tools for decision-making
+
+Automation and ETL workflows
+
+My Approach
+
+I don’t just write code.
+
+I design systems where:
+
+Business rules are explicit and maintainable
+
+Data integrity is preserved
+
+Reporting is possible without reengineering
+
+Metrics can drive real decisions
+
+📍 Based in Argentina
+📫 Contact: alanmonti92@gmail.com
+
+🔗 LinkedIn: (add your link here)
