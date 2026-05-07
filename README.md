@@ -1,84 +1,76 @@
-Hi, I’m Alan Monti
+# 👋 Hola, soy Alan Monti
 
-Backend & Data-Driven Systems Specialist
-Systems Analyst | Data Science Graduate
+## Backend Developer & Data Systems Specialist
 
-I design and build reliable business systems where logic, payments, and data integrity truly matter.
+Soy Analista de Sistemas y Licenciado en Ciencias de Datos, especializado en desarrollo backend, arquitectura de sistemas y análisis de datos.
 
-My focus is not just developing features — but creating structured architectures that generate decision-ready data and support long-term business growth.
+Diseño soluciones enfocadas en:
 
-What I Work On
+* automatización de procesos,
+* integridad de datos,
+* lógica de negocio,
+* reporting y toma de decisiones.
 
-I build systems with strong foundations in:
+---
 
-Complex business rules
+## 🚀 Tecnologías
 
-Financial workflows & payment processing
+### Backend
 
-Structured database design
+* Laravel / PHP
+* Python
+* REST APIs
+* JWT Authentication
 
-Reporting-ready architectures
+### Bases de Datos
 
-Data modeling and analytics
+* MySQL
+* PostgreSQL
+* SQL Server
 
-Core Stack
-Backend
+### Frontend
 
-Laravel / PHP
+* Livewire
+* Blade
+* Tailwind CSS
+* Bootstrap
 
-MySQL, PostgreSQL, SQL Server
+### Data & Analytics
 
-REST APIs & JWT integrations
+* Pandas
+* NumPy
+* Streamlit
+* ETL & Reporting
 
-Complex validation and financial logic
+---
 
-Frontend
+## 💼 Experiencia
 
-Blade / Livewire
+He trabajado desarrollando:
 
-Tailwind CSS
+* sistemas de gestión empresarial,
+* plataformas administrativas,
+* dashboards y KPIs,
+* automatización de procesos,
+* herramientas orientadas a datos.
 
-Clean, structured UI layers
+También participé en proyectos para organismos públicos y empresas privadas.
 
-Data & Analytics
+---
 
-Python
+## 🧠 Mi enfoque
 
-Pandas
+No solo desarrollo funcionalidades.
 
-Streamlit
+Construyo sistemas donde:
 
-SQL-based reporting
+* la lógica de negocio es clara,
+* los datos son confiables,
+* el crecimiento es escalable,
+* y la información sirve para tomar decisiones reales.
 
-ETL and structured datasets
+---
 
-What I Build
-
-Business management systems (sales, payments, account flows)
-
-Custom backend platforms
-
-KPI dashboards & reporting systems
-
-Data-driven tools for decision-making
-
-Automation and ETL workflows
-
-My Approach
-
-I don’t just write code.
-
-I design systems where:
-
-Business rules are explicit and maintainable
-
-Data integrity is preserved
-
-Reporting is possible without reengineering
-
-Metrics can drive real decisions
-
-📍 Based in Argentina
-📫 Contact: alanmonti92@gmail.com
-
-🔗 LinkedIn: [(add your link here)](https://www.linkedin.com/in/alanmontis/)
+📍 Argentina
+📫 Contacto: [alanmonti92@gmail.com](mailto:alanmonti92@gmail.com)
+https://www.linkedin.com/in/alanmontis/
