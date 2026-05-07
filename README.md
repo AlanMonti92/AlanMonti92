@@ -81,4 +81,4 @@ Metrics can drive real decisions
 📍 Based in Argentina
 📫 Contact: alanmonti92@gmail.com
 
-🔗 LinkedIn: (add your link here)
+🔗 LinkedIn: [(add your link here)](https://www.linkedin.com/in/alanmontis/)
