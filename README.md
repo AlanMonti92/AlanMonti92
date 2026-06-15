@@ -1,6 +1,6 @@
 # 👋 Hola, soy Alan Monti
 
-## Backend Developer & Data Systems Specialist
+Backend Developer | Data Scientist
 
 Soy Analista de Sistemas y Licenciado en Ciencias de Datos, especializado en desarrollo backend, arquitectura de sistemas y análisis de datos.
 
